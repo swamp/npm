@@ -1,1 +1,1 @@
-# npm
+# Swamp Compiler distributed for npm
