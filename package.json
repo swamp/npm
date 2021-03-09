@@ -1,6 +1,6 @@
 {
   "name": "swamp-compiler",
-  "version": "0.0.2-alpha-07",
+  "version": "0.0.2-alpha-08",
   "description": "swamp executable",
   "main": "index.js",
   "bin": {
